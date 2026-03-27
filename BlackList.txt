@@ -1,3 +1,8 @@
+@@||sentry.d.xiaomi.net^
+@@||cnbj1.fds.api.xiaomi.com^
+@@||sensearch.baidu.com^
+@@||lf3-static.bytefae.com^
+@@||api.hybrid.xiaomi.com^
 ||trk.ali-cle.org^
 ||dsp.ali213.net^
 ||web.ali213.net^
@@ -755,8 +760,3 @@
 ||baiduccdn.com^
 ||baidustatic.com^
 ||baiduunions.info^
-@@||sentry.d.xiaomi.net^
-@@||cnbj1.fds.api.xiaomi.com^
-@@||sensearch.baidu.com^
-@@||lf3-static.bytefae.com^
-@@||api.hybrid.xiaomi.com^
