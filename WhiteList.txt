@@ -1,1 +1,6 @@
-||iot.mi.com^
+@@||iot.mi.com^
+@@||sentry.d.xiaomi.net^
+@@||cnbj1.fds.api.xiaomi.com^
+@@||sensearch.baidu.com^
+@@||lf3-static.bytefae.com^
+@@||api.hybrid.xiaomi.com^
