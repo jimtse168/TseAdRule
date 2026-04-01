@@ -4,3 +4,7 @@
 @@||sensearch.baidu.com^
 @@||lf3-static.bytefae.com^
 @@||api.hybrid.xiaomi.com^
+@@||cdn3.jf365.boc.cn^$important
+@@||cdn2.jf365.boc.cn^$important
+@@||yun-qytx.duiba.com.cn^$important
+@@||yun.duiba.com.cn^$important
